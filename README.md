@@ -1,6 +1,6 @@
-# A Portfolio of Transformer-Based Models
+# Transformer-Based Models
 
-Welcome to my portfolio of Transformer-based models! This repository showcases a step-by-step journey into the world of the Transformer architecture, starting with fundamental components and building up to advanced applications in both Natural Language Processing (NLP) and Computer Vision.
+Welcome to my repo of Transformer-based models! This repository showcases a step-by-step journey into the world of the Transformer architecture, starting with fundamental components and building up to advanced applications in both Natural Language Processing (NLP) and Computer Vision.
 
 Each project is self-contained and demonstrates an end-to-end workflow, from model construction to training and inference.
 
