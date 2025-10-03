@@ -12,15 +12,15 @@ This repository contains three distinct projects, each building upon the core co
 
 ### 1. Text Classifier
 A Transformer Encoder model built from scratch in PyTorch to classify news headlines into categories. This project focuses on the fundamental self-attention mechanism and text processing pipeline.
-- **[Read More & View Code](./text_classifier/README.md)**
+- **[Read More & View Code](./text_classifier/readme.md)**
 
 ### 2. Vision Encoder (ViT)
 An implementation of a Vision Transformer (ViT) that uses transfer learning to fine-tune a large, pre-trained model for a specific image classification task (CIFAR-10). This project explores the application of Transformers to the vision domain.
-- **[Read More & View Code](./vision_encoder/README.md)**
+- **[Read More & View Code](./vision_encoder/readme.md)**
 
 ### 3. Vision-Language Model (VLM)
 The most advanced project, this VLM combines a vision encoder and a text decoder for Visual Question Answering (VQA). It features a custom implementation of the SPIN attention mechanism to reduce model "hallucinations."
-- **[Read More & View Code](./vision_language_model/README.md)**
+- **[Read More & View Code](./vision_language_model/readme.md)**
 
 ---
 
