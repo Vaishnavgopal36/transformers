@@ -20,7 +20,7 @@ An implementation of a Vision Transformer (ViT) that uses transfer learning to f
 
 ### 3. Vision-Language Model (VLM)
 The most advanced project, this VLM combines a vision encoder and a text decoder for Visual Question Answering (VQA). It features a custom implementation of the SPIN attention mechanism to reduce model "hallucinations."
-- **[Read More & View Code](./vision_language_model/readme.md)**
+- **[Read More & View Code](./vision_language_model/redme.md)**
 
 ---
 
